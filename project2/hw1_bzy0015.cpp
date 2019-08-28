@@ -1,10 +1,6 @@
 #include <cmath>
 #include <iostream>
-//Boyang yu
-//bzy0015
-//hw1_bzy0015.cpp
-//This is a program calculates the fatal amonumt of soda
-//I leaned some C++ grammar from CSDN.net and C++ Primer Plus
+
 
 using namespace std;
 
